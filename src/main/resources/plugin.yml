@@ -1,0 +1,8 @@
+name: SmartlifePlugin
+author: Twasi-Team
+main: net.twasiplugin.smartlife.SmartlifePlugin
+version: "1.0"
+hidden: true
+autoInstall: true
+dependencies:
+  - SmartlifeIntegration
